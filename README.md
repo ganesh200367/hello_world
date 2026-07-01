@@ -1,3 +1,1 @@
-# hello_world
-THis repository only use for understanding purpose.    
-ye aise hi bnaya gya file h 
+This folder is all to introduce about me, nothing related to work
